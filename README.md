@@ -27,4 +27,5 @@ This project is a simple demonstration of how to rank web pages based on link en
 - Refactor so it don't look like a draft
 - Add search query handling
 - Paralelize
-- Create a crawler and try to do the real stuff
+- Create a crawler and try to do the real stuffstuff
+- Use limits, instead of a specific N number of rounds
