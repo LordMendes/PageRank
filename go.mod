@@ -1,4 +1,4 @@
-module github.com/LordMendes/google
+module github.com/LordMendes/PageRank
 
 go 1.22.3
 

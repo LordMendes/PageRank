@@ -58,5 +58,6 @@ func main() {
 	for _, probability := range matrix {
 		sum += probability
 	}
+	// check if the sum is 1
 	fmt.Println("Sum of probabilities:", sum)
 }
